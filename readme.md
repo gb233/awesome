@@ -621,6 +621,7 @@
 - [Application Security](https://github.com/paragonie/awesome-appsec#readme)
 - [Security](https://github.com/sbilly/awesome-security#readme)
 - [CTF](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
+- [Awesome Vulnerable Labs](https://github.com/gb233/Awesome-Vulnerable-Labs#readme) - Curated list of vulnerable-by-design labs and platforms for web, API, Android, iOS, Windows, IoT, Web3, blockchain,AI,LLM and more, covering various stacks, platforms, and scenarios.
 - [Cyber Security University](https://github.com/brootware/awesome-cyber-security-university#readme) - Free educational resources that focus on learning by doing.
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
 - [Android Security](https://github.com/ashishb/android-security-awesome#readme)
